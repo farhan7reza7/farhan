@@ -3,21 +3,21 @@
     "commonName": "Cayman Brac",
     "countryCode": "KY",
     "countryName": "Cayman Islands",
-    "stateCode": "KY-CB",
+    "stateCode": "CB",
     "coords": ["19.71999700", "-79.89072660"]
   },
   {
     "commonName": "Grand Cayman",
     "countryCode": "KY",
     "countryName": "Cayman Islands",
-    "stateCode": "KY-GC",
+    "stateCode": "GC",
     "coords": ["19.33012710", "-81.41724510"]
   },
   {
     "commonName": "Little Cayman",
     "countryCode": "KY",
     "countryName": "Cayman Islands",
-    "stateCode": "KY-LC",
+    "stateCode": "LC",
     "coords": ["19.68567390", "-80.11830190"]
   }
 ]
