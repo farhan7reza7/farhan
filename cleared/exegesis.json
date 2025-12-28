@@ -1,0 +1,223 @@
+[
+  {
+    "author_name": "AbdulRahman Bin Hasan Al-Alshaikh",
+    "id": 381,
+    "language_name": "bengali",
+    "tafsir_name": "Tafsir Fathul Majid (Bengali)",
+    "key": "bn-tafisr-fathul-majid",
+    "iso": "bn"
+  },
+  {
+    "author_name": "Hafiz Ibn Kathir",
+    "id": 169,
+    "language_name": "english",
+    "tafsir_name": "Tafsir Ibn Kathir (abridged) (Recommended English)",
+    "key": "en-tafisr-ibn-kathir",
+    "iso": "en",
+    "isDefault": true
+  },
+  {
+    "author_name": "Hafiz Ibn Kathir",
+    "id": 14,
+    "language_name": "arabic",
+    "tafsir_name": "Tafsir Ibn Kathir (Arabic)",
+    "key": "ar-tafsir-ibn-kathir",
+    "iso": "ar"
+  },
+  {
+    "author_name": "Tawheed Publication",
+    "id": 164,
+    "language_name": "bengali",
+    "tafsir_name": "Tafseer ibn Kathir (Recommended Bengali)",
+    "key": "bn-tafseer-ibn-e-kaseer",
+    "iso": "bn",
+    "isDefault": true
+  },
+  {
+    "author_name": "Bayaan Foundation",
+    "id": 165,
+    "language_name": "bengali",
+    "tafsir_name": "Tafsir Ahsanul Bayaan (Bengali)",
+    "key": "bn-tafsir-ahsanul-bayaan",
+    "iso": "bn"
+  },
+  {
+    "author_name": "King Fahd Quran Printing Complex",
+    "id": 166,
+    "language_name": "bengali",
+    "tafsir_name": "Tafsir Abu Bakr Zakaria (Bengali)",
+    "key": "bn-tafsir-abu-bakr-zakaria",
+    "iso": "bn"
+  },
+  {
+    "author_name": "Mufti Muhammad Shafi",
+    "id": 168,
+    "language_name": "english",
+    "tafsir_name": "Maarif-ul-Quran (English)",
+    "key": "en-tafsir-maarif-ul-quran",
+    "iso": "en"
+  },
+  {
+    "author_name": "Saddi",
+    "id": 170,
+    "language_name": "russian",
+    "tafsir_name": "Tafseer Al Saddi (Russian)",
+    "key": "ru-tafseer-al-saddi",
+    "iso": "ru",
+    "isDefault": true
+  },
+  {
+    "author_name": "Saddi",
+    "id": 91,
+    "language_name": "arabic",
+    "tafsir_name": "Tafseer Al Saddi (Arabic)",
+    "key": "ar-tafseer-al-saddi",
+    "iso": "ar"
+  },
+  {
+    "author_name": "Baghawy",
+    "id": 94,
+    "language_name": "arabic",
+    "tafsir_name": "Tafseer Al-Baghawi (Arabic)",
+    "key": "ar-tafsir-al-baghawi",
+    "iso": "ar"
+  },
+  {
+    "author_name": "Tanweer",
+    "id": 92,
+    "language_name": "arabic",
+    "tafsir_name": "Tafseer Tanwir al-Miqbas (Arabic)",
+    "key": "ar-tafseer-tanwir-al-miqbas",
+    "iso": "ar"
+  },
+  {
+    "author_name": "Waseet",
+    "id": 93,
+    "language_name": "arabic",
+    "tafsir_name": "Tafsir Al Wasit (Arabic)",
+    "key": "ar-tafsir-al-wasit",
+    "iso": "ar"
+  },
+  {
+    "author_name": "Tabari",
+    "id": 15,
+    "language_name": "arabic",
+    "tafsir_name": "Tafsir al-Tabari (Recommended Arabic)",
+    "key": "ar-tafsir-al-tabari",
+    "iso": "ar"
+  },
+  {
+    "author_name": "المیسر",
+    "id": 16,
+    "language_name": "arabic",
+    "tafsir_name": "Tafsir Muyassar (Arabic)",
+    "key": "ar-tafsir-muyassar",
+    "iso": "ar"
+  },
+  {
+    "author_name": "Qurtubi",
+    "id": 90,
+    "language_name": "arabic",
+    "tafsir_name": "Tafseer Al Qurtubi (Arabic)",
+    "key": "ar-tafseer-al-qurtubi",
+    "iso": "ar"
+  },
+  {
+    "author_name": "Rebar Kurdish Tafsir",
+    "id": 804,
+    "language_name": "Kurdish",
+    "tafsir_name": "Rebar Kurdish Tafsir (Kurdish)",
+    "key": "kurd-tafsir-rebar",
+    "iso": "ku",
+    "isDefault": true
+  },
+  {
+    "author_name": "Hafiz Ibn Kathir",
+    "id": 160,
+    "language_name": "urdu",
+    "tafsir_name": "Tafsir Ibn Kathir (Recommended Urdu)",
+    "key": "ur-tafseer-ibn-e-kaseer",
+    "iso": "ur",
+    "isDefault": true
+  },
+  {
+    "author_name": "Dr. Israr Ahmad",
+    "id": 159,
+    "language_name": "urdu",
+    "tafsir_name": "Tafsir Bayan ul Quran (Urdu)",
+    "key": "ur-tafsir-bayan-ul-quran",
+    "iso": "ur"
+  },
+  {
+    "author_name": "Maulana Wahid Uddin Khan",
+    "id": 818,
+    "language_name": "urdu",
+    "tafsir_name": "Tazkirul Quran (Urdu)",
+    "key": "ur-tazkirul-quran",
+    "iso": "ur"
+  },
+  {
+    "author_name": "Maulana Wahid Uddin Khan",
+    "id": 817,
+    "language_name": "english",
+    "tafsir_name": "Tazkirul Quran (English)",
+    "key": "en-tazkirul-quran",
+    "iso": "en"
+  },
+  {
+    "author_name": "Kashf Al-Asrar Tafsir",
+    "id": 109,
+    "language_name": "english",
+    "tafsir_name": "Kashf Al-Asrar Tafsir (English)",
+    "key": "en-kashf-al-asrar-tafsir",
+    "iso": "en"
+  },
+  {
+    "author_name": "Al Qushairi Tafsir",
+    "id": 108,
+    "language_name": "english",
+    "tafsir_name": "Al Qushairi Tafsir (English)",
+    "key": "en-al-qushairi-tafsir",
+    "iso": "en"
+  },
+  {
+    "author_name": "Kashani Tafsir",
+    "id": 107,
+    "language_name": "english",
+    "tafsir_name": "Kashani Tafsir (English)",
+    "key": "en-kashani-tafsir",
+    "iso": "en"
+  },
+  {
+    "author_name": "Tafsir al-Tustari",
+    "id": 93,
+    "language_name": "english",
+    "tafsir_name": "Tafsir al-Tustari (English)",
+    "key": "en-tafsir-al-tustari",
+    "iso": "en"
+  },
+  {
+    "author_name": "Asbab Al-Nuzul by Al-Wahidi",
+    "id": 86,
+    "language_name": "english",
+    "tafsir_name": "Asbab Al-Nuzul by Al-Wahidi (English)",
+    "key": "en-asbab-al-nuzul-by-al-wahidi",
+    "iso": "en"
+  },
+  {
+    "author_name": "Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs",
+    "id": 73,
+    "language_name": "english",
+    "tafsir_name": "Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs (English)",
+    "key": "en-tafsir-ibn-abbas",
+    "iso": "en"
+  },
+  {
+    "author_name": "Al-Jalalayn",
+    "id": 74,
+    "language_name": "english",
+    "tafsir_name": "Al-Jalalayn (English)",
+    "key": "en-al-jalalayn",
+    "iso": "en"
+  }
+]
